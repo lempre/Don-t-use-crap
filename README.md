@@ -42,3 +42,7 @@ Notes for me but maybe it will help someone.
 - Raycast
 - Hidden Bar
 - One Thing
+- Pearcleaner
+- ToogleMute
+- CommandX
+- Onyx
