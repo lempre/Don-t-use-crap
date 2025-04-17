@@ -34,7 +34,6 @@ Notes for me but maybe it will help someone.
 
 ## MacOS
 - AlDente
-- App Eraser
 - WeTransfer
 - Warp
 - Shottr
